@@ -1,5 +1,7 @@
 # Cloud-formation-and-infrastructure-diagram-of-highly-available-web-app
 
+### Live link: http://serve-webap-1tacl472fyyl3-974291379.us-east-1.elb.amazonaws.com/
+
 # Scenario
 
 Your company is creating an Instagram clone called Udagram.
@@ -29,6 +31,7 @@ Optional - To add more challenge to the project, once the project is completed, 
 - The application needs to be deployed into private subnets with a Load Balancer located in a public subnet.
 - One of the output exports of the CloudFormation script should be the public URL of the LoadBalancer. Bonus points if you add http:// in front of the load balancer DNS Name in the output, for convenience.
 
-I# nfrastructure diagram
+
+# Infrastructure diagram
 
 ![ Files uploaded ](High-Available-WebApp-Infrastructure.png)
